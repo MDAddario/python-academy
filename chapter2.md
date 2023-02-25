@@ -1,4 +1,4 @@
-# Chapter 2: Operators
+# Chapter 2: Operators and logic
 
 Operators take two inputs and return a single output. The behaviour of operators depends on what data types you are using.
 
@@ -36,6 +36,21 @@ Operators take two inputs and return a single output. The behaviour of operators
 7 >= 8
 9 == 10
 11 != 12
+```
+
+there is a cute syntax for operations where a variable updates itself
+
+```python
+x, y, z = 0, 0, 0
+
+x = x + 2
+x += 2
+
+y = y * 2
+y *= 2
+
+z = z // 2
+z //= 2 
 ```
 
 `bool`s can use logical operators

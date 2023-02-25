@@ -40,6 +40,8 @@ Here are two functions that are very useful to know
 ```python
 x = input('Give me content: ') # Read user input
 print(x)                       # Display output
+
+type() # me too!!
 ```
 
 Please note that `input()` will always return a `str`
