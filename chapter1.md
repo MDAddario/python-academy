@@ -1,4 +1,4 @@
-# Chapter 1: Data types and variables
+# Chapter 1: Variables
 
 There are four basic data types in Python
 

@@ -1,4 +1,4 @@
-# Chapter 2: Operators and logic
+# Chapter 2: Operators
 
 Operators take two inputs and return a single output. The behaviour of operators depends on what data types you are using.
 
